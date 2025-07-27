@@ -5,7 +5,7 @@ Welcome to my GitHub profile!
 
 ## 💼 About Me
 
-- 🎓 Computer Engineering student at University of Ioannina  
+- 🎓 Computer Science & Engineering student at University of Ioannina  
 - 💡 Co-founder & COO at [UniMates](https://www.unimates.net/) – a SaaS platform helping students find compatible roommates  
 - 🌐 Founder of **Vographics**, a web design service focused on creating impactful digital presences  
 - 🧠 Currently finishing Meta full-stack developer course 

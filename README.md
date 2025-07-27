@@ -1,7 +1,6 @@
 # John Vongelis
 
-Welcome to my GitHub profile! I'm a passionate and curious developer, currently studying Computer Engineering and actively building projects that solve real-world problems. I specialize in front-end development, product design, and the intersection between technology and user experience.
-
+Welcome to my GitHub profile!
 ---
 
 ## 💼 About Me

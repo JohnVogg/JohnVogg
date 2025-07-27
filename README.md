@@ -24,7 +24,7 @@ A digital product to help developers use AI tools effectively for productivity, 
 
 ---
 
-## 🧩 How to Collaborate or Get Involved
+## 🧩 Contact me
 
 - 💬 I'm open to feedback, collaborations, or side projects
 - 🤝 Looking to network with founders, companies, and developers

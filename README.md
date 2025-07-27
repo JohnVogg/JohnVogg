@@ -1,7 +1,6 @@
 # John Vongelis
 
 Welcome to my GitHub profile!
----
 
 ## 💼 About Me
 

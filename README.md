@@ -21,14 +21,14 @@ A full-stack roommate-matching and property management dashboard for student hou
 Web design service for brands and creators using platforms like Squarespace. Focused on clean UI, fast delivery, and conversion-driven design.
 
 ### 📘 AI for Developers (E-Book - Coming Soon)  
-A digital product to help developers use AI tools effectively for productivity, code generation, and product development. Will be published on [Whop](https://whop.com).
+A digital product to help developers use AI tools effectively for productivity, code generation, and product development.
 
 ---
 
 ## 🧩 How to Collaborate or Get Involved
 
 - 💬 I'm open to feedback, collaborations, or side projects
-- 🤝 Looking to network with founders, indie hackers, and developers
+- 🤝 Looking to network with founders, companies, and developers
 - 📫 Reach me at **johnyvoggelis@gmail.com** or [LinkedIn](www.linkedin.com/in/ioannis-voggelis-14095b325)
 
 ---

@@ -7,7 +7,7 @@ Welcome to my GitHub profile!
 - 🎓 Computer Science & Engineering student at University of Ioannina  
 - 💡 Co-founder & COO at [UniMates](https://www.unimates.net/) – a SaaS platform helping students find compatible roommates  
 - 🌐 Founder of **Vographics**, a web design service focused on creating impactful digital presences  
-- 🧠 Currently finishing Meta full-stack developer course 
+- 🧠 Currently finishing Meta full-stack developer course from Coursera
 
 ---
 
@@ -21,12 +21,14 @@ Web design service for brands and creators using platforms like Squarespace. Foc
 
 ### 📘 Coming Soon  
 A digital product
+
 ---
 ## 📫 Let's Connect
 
-- [Email](mailto:johnyvoggelis@gmail.com)
-- [LinkedIn](www.linkedin.com/in/ioannis-voggelis-14095b325)  
-- [GitHub](https://github.com/JohnVogg)  
+- Email: [johnyvoggelis@gmail.com](mailto:johnyvoggelis@gmail.com)
+- LinkedIn: [Ioannis Vongelis](www.linkedin.com/in/ioannis-voggelis-14095b325)  
+- GitHub: [@JohnVogg](https://github.com/JohnVogg)  
+
 
 ---
 

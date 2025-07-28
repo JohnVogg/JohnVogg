@@ -24,8 +24,8 @@ A digital product
 ---
 ## 🧩 Contact Me
 
-[📧](mailto:johnyvoggelis@gmail.com) 
-[💼](https://www.linkedin.com/in/ioannis-voggelis-14095b325)
+📧(mailto:johnyvoggelis@gmail.com) 
+💼(https://www.linkedin.com/in/ioannis-voggelis-14095b325)
 
 ---
 

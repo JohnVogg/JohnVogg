@@ -26,8 +26,6 @@ A digital product
 
 - Email: [johnyvoggelis@gmail.com](mailto:johnyvoggelis@gmail.com)  
 - LinkedIn: [Ioannis Voggelis](https://www.linkedin.com/in/ioannis-voggelis-14095b325)  
-- GitHub: [@JohnVogg](https://github.com/JohnVogg)
-
 ---
 
 > “Sometimes I sit & wonder what life would’ve been like if I had done what they wanted me to do, become who they wanted me to become.”

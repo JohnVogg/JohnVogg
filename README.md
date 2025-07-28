@@ -1,4 +1,4 @@
-# John Vongelis
+# Ioannis Vongelis
 
 Welcome to my GitHub profile!
 

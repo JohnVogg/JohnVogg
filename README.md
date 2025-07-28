@@ -24,10 +24,9 @@ A digital product
 ---
 ## 📫 Get in touch
 
-- Email: [johnyvoggelis@gmail.com](mailto:johnyvoggelis@gmail.com)
-- LinkedIn: [Ioannis Vongelis](www.linkedin.com/in/ioannis-voggelis-14095b325)  
-- GitHub: [@JohnVogg](https://github.com/JohnVogg)  
-
+- Email: [johnyvoggelis@gmail.com](mailto:johnyvoggelis@gmail.com)  
+- LinkedIn: [Ioannis Voggelis](https://www.linkedin.com/in/ioannis-voggelis-14095b325)  
+- GitHub: [@JohnVogg](https://github.com/JohnVogg)
 
 ---
 

@@ -22,10 +22,11 @@ Web design service for brands and creators using platforms like Squarespace. Foc
 ### 📘 Coming Soon  
 A digital product
 ---
-## 🧩 Contact Me
+## 📫 Let's Connect
 
--📧(mailto:johnyvoggelis@gmail.com) 
--💼(https://www.linkedin.com/in/ioannis-voggelis-14095b325)
+- [Email](mailto:johnyvoggelis@gmail.com)
+- [LinkedIn](www.linkedin.com/in/ioannis-voggelis-14095b325)  
+- [GitHub](https://github.com/JohnVogg)  
 
 ---
 

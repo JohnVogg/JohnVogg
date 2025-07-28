@@ -23,7 +23,7 @@ Web design service for brands and creators using platforms like Squarespace. Foc
 A digital product
 
 ---
-## 📫 Let's Connect
+## 📫 Get in touch
 
 - Email: [johnyvoggelis@gmail.com](mailto:johnyvoggelis@gmail.com)
 - LinkedIn: [Ioannis Vongelis](www.linkedin.com/in/ioannis-voggelis-14095b325)  

@@ -1,7 +1,7 @@
-# Ioannis Vongelis
+
 Welcome to my GitHub profile!
 
-## 💼 About Me
+## 💼 About Ioannis Vongelis
 
 - 🎓 Computer Science & Engineering student at University of Ioannina  
 - 💡 Co-founder & COO at [UniMates](https://www.unimates.net/) – a SaaS platform helping students find compatible roommates  

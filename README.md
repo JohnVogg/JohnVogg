@@ -26,7 +26,7 @@ Welcome to my GitHub profile!
 ## 📫 Get in touch
 
 - Email: [johnyvoggelis@gmail.com](mailto:johnyvoggelis@gmail.com)  
-- LinkedIn: [Ioannis Voggelis](https://www.linkedin.com/in/ioannis-voggelis-14095b325)  
+- LinkedIn: [Ioannis Vongelis](https://www.linkedin.com/in/ioannis-voggelis-14095b325)  
 ---
 
 > “Sometimes I sit & wonder what life would’ve been like if I had done what they wanted me to do, become who they wanted me to become.”

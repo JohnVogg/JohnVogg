@@ -17,10 +17,10 @@ Welcome to my GitHub profile!
 - A dashboard for university accomodation companies
 
 ### 🖥️ Vographics Portfolio  
-Web design service for brands and creators using platforms like Squarespace. Focused on clean UI, fast delivery, and conversion-driven design.
+- Web design service for brands and creators using platforms like Squarespace. Focused on clean UI, fast delivery, and conversion-driven design.
 
 ### 📘 Coming Soon  
-A digital product
+- A digital product
 
 ---
 ## 📫 Get in touch

@@ -19,8 +19,7 @@ Welcome to my GitHub profile!
 ### 🖥️ Vographics Portfolio  
 - Web design service for brands and creators using platforms like Squarespace. Focused on clean UI, fast delivery, and conversion-driven design.
 
-### 📘 Coming Soon  
-- A digital product
+### 📘 Coming Soon
 
 ---
 ## 📫 Get in touch

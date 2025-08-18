@@ -13,12 +13,9 @@ Welcome to my GitHub profile!
 
 ### 🔗 UniMates
 - A roommate-matching and property management dashboard for student and housing providers – integrating matching algorithms, analytics, and room tracking.
-- A dashboard for university accomodation companies
+- A dashboard for university accomodation companies 
 
-### 🖥️ Vographics Portfolio  
-- Web design service for brands and creators using platforms like Squarespace. Focused on clean UI, fast delivery, and conversion-driven design.
-
-### 📘 Coming Soon
+### 🖥️  Coming Soon
 
 ---
 ## 📫 Get in touch

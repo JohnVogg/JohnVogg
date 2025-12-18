@@ -5,7 +5,7 @@
 
 - 🎓 [Computer Science & Engineering](https://www.cse.uoi.gr/?lang=en) student at University of Ioannina  
 - 🌐 Co-founder & COO at [UniMates](https://www.unimates.net/) 
-- 🎙️ **Web Manager** at [TEDxMaviliSquare](https://tedxmavilisquare.com/)
+- 🎙️ Web Manager at [TEDxMaviliSquare](https://tedxmavilisquare.com/)
 - 🧠 Meta Full-Stack Developer course provided by [Coursera](https://www.coursera.org/)
 
 ---

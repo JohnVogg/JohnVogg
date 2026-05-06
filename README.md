@@ -14,7 +14,7 @@
 ### 🔗 UniMates
 A roommate-matching and property management dashboard for students and housing providers.
 
-### 🔴 TEDxMaviliSquare (2025-2026)
+### 🔴 TEDxMaviliSquare (2025 - ...)
 As the **Web Manager**, I oversee the digital presence of the event. This includes developing and maintaining the official website, ensuring high performance and security, and managing the integration of speaker content and attendee registration systems to support the "ideas worth spreading" mission.
 
 ### 🖥️  Coming Soon

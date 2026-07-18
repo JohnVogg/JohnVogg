@@ -24,7 +24,7 @@ As the **Website Manager**, I oversee the digital presence of the event. This in
 
 ## 📫 Get in touch
 
-- **Email:** [johnyvoggelis@gmail.com](mailto:johnyvoggelis@gmail.com)  
+- **Email:** [contact@vongelis.net](mailto:contact@vongelis.net)  
 - **LinkedIn:** [Ioannis Vongelis](https://www.linkedin.com/in/ioannis-voggelis-14095b325)  
 
 ---
